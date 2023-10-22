@@ -4,7 +4,7 @@ use yew::prelude::*;
 pub fn app() -> Html {
     html! {
             <main>
-                <img class="logo" src="/assets/image/assets-logo.png" alt="Yew logo" />
+                <img class="logo" src="/assets/image/assets-logo.png" alt="AssetsArt logo" />
                 <div style="text-align: justify;">
                     <span class="span-link"> {{"📦 Get in touch"}}</span>
                 </div>
